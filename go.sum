@@ -1,0 +1,12 @@
+github.com/abadojack/whatlanggo v0.0.0-20181004111500-01d4c01a5a7c h1:zGvufmb18ltr/s5/QeMN3r87oYCeR+uSNzJltsneCaE=
+github.com/abadojack/whatlanggo v0.0.0-20181004111500-01d4c01a5a7c/go.mod h1:JdU7lKuvX8qqAFrjw25JGWCVmbEzBknb3+L69+8BRJo=
+github.com/evalphobia/google-tts-go v0.3.0 h1:oE0wUXSsnLLj0Isz6P88fmfSOc078GreT0yj+RsWOGQ=
+github.com/evalphobia/google-tts-go v0.3.0/go.mod h1:7Q5qLC9Y5eUrI7BiATXPnApxXkRtHCzOwsTw999jbcQ=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/tidwall/gjson v1.1.5 h1:QysILxBeUEY3GTLA0fQVgkQG1zme8NxGvhh2SSqWNwI=
+github.com/tidwall/gjson v1.1.5/go.mod h1:c/nTNbUr0E0OrXEhq1pwa8iEgc2DOt4ZZqAt1HtCkPA=
+github.com/tidwall/match v1.0.1 h1:PnKP62LPNxHKTwvHHZZzdOAOCtsJTjo6dZLCwpKm5xc=
+github.com/tidwall/match v1.0.1/go.mod h1:LujAq0jyVjBy028G1WhWfIzbpQfMO8bBZ6Tyb0+pL9E=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20190213110836-e6cfaa833930 h1:iBc9Wv0kN3j0qRzHQH+BKOuRdEVu/z4QuK0YN2p9pro=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20190213110836-e6cfaa833930/go.mod h1:EmWSFwexO5JPTHiU7gDd9HMCCiyatACwO0HhuKNsOd0=
