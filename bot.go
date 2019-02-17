@@ -18,6 +18,11 @@ func StartBot() {
 		log.Fatal(err)
 	}
 	bot.Handle(tb.OnText, func(m *tb.Message) {
+		if m.Text == "/start" {
+			log.Println("show help message")
+			bot.Send(m.Sender, "Please type in English or Farsi and send me !")
+			return
+		}
 		targetLang, err := TargetLang(m.Text)
 		if err != nil {
 			log.Println(err)

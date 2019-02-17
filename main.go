@@ -6,10 +6,11 @@ import (
 	"os"
 )
 
-var port string
+
 var addr string
 
 func init() {
+	var port string
 	if os.Getenv("PORT") == "" {
 		port = "8080"
 	} else {
