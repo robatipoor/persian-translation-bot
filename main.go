@@ -10,11 +10,10 @@ import (
 var addr string
 
 func init() {
-	var port string
-	if os.Getenv("PORT") == "" {
+
+	port := os.Getenv("PORT")
+	if port == "" {
 		port = "8080"
-	} else {
-		port = os.Getenv("PORT")
 	}
 	if os.Getenv("TELEGRAM_TOKEN") == "" {
 		log.Fatalln("TELEGRAM_TOKEN not set !")
