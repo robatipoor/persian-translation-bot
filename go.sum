@@ -2,6 +2,8 @@ github.com/abadojack/whatlanggo v0.0.0-20181004111500-01d4c01a5a7c h1:zGvufmb18l
 github.com/abadojack/whatlanggo v0.0.0-20181004111500-01d4c01a5a7c/go.mod h1:JdU7lKuvX8qqAFrjw25JGWCVmbEzBknb3+L69+8BRJo=
 github.com/evalphobia/google-tts-go v0.3.0 h1:oE0wUXSsnLLj0Isz6P88fmfSOc078GreT0yj+RsWOGQ=
 github.com/evalphobia/google-tts-go v0.3.0/go.mod h1:7Q5qLC9Y5eUrI7BiATXPnApxXkRtHCzOwsTw999jbcQ=
+github.com/jasonlvhit/gocron v0.0.0-20190121134850-6771d4b492ba h1:uQgbHQ3qODYqXXzEf5MPEXRYAtG86jlItxtXCaIrEe8=
+github.com/jasonlvhit/gocron v0.0.0-20190121134850-6771d4b492ba/go.mod h1:rwi/esz/h+4oWLhbWWK7f6dtmgLzxeZhnwGr7MCsTNk=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/tidwall/gjson v1.1.5 h1:QysILxBeUEY3GTLA0fQVgkQG1zme8NxGvhh2SSqWNwI=
