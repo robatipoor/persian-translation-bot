@@ -12,7 +12,7 @@ import (
 
 	"github.com/tidwall/gjson"
 )
-
+// Translate Fa to En and reverse
 func Translate(text string,targetLang string) (string, error) {
 
 	l := "https://translate.google.com/translate_a/single?&client=gtx&sl=auto"

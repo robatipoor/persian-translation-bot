@@ -6,14 +6,16 @@ import (
 
 	"github.com/abadojack/whatlanggo"
 )
-
+// Lang = Language
 type Lang string
 
 const (
+	// FA = Farsi
 	FA Lang = "fa"
+	// EN = English
 	EN Lang = "en"
 )
-
+// DetectLanguage Function
 func DetectLanguage(text string) (Lang, error) {
 
 	info := whatlanggo.DetectScript(text)
@@ -27,7 +29,7 @@ func DetectLanguage(text string) (Lang, error) {
 		return "", errors.New("language not supported")
 	}
 }
-
+// TargetLang Function
 func TargetLang(text string) (Lang, error) {
 
 	lang, err := DetectLanguage(text)

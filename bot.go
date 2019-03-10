@@ -8,7 +8,7 @@ import (
 
 	tb "gopkg.in/tucnak/telebot.v2"
 )
-
+// StartBot function
 func StartBot() {
 	bot, err := tb.NewBot(tb.Settings{
 		Token:  os.Getenv("TELEGRAM_TOKEN"),
